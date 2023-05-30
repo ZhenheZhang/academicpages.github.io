@@ -1,17 +1,17 @@
 # main links links
 main:
-#  - title: "Publications"
-#    url: /publications/
+  - title: "Publications"
+    url: /publications/
 
-#  - title: "Portfolio"
-#    url: /portfolio/
+  - title: "Portfolio"
+    url: /portfolio/
 
   - title: "CV"
 #    url: /cv/
     url: /files/cv/en/CV_ZhenheZhang_en.pdf
 
-#  - title: "PG Teaching"
-#    url: /teaching/
+  - title: "PG Teaching"
+    url: /teaching/
 
   - title: "中文简历"
 #    url: /cv/
