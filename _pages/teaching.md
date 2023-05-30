@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /teaching/
-title: "Teaching"
+title: "PG Teaching"
 author_profile: true
 ---
 ## BEng modules  📚 
