@@ -10,4 +10,4 @@ author_profile: true
 <br/>
 
 ## Overseas:
-- Ph.D. Scholarship and Bursary by The European commission (Fully-sponsored)
+- Ph.D. Scholarship and Bursary by The European Commission (Fully-Sponsored)
